@@ -1,0 +1,8 @@
+# .gitignore for Bai1
+bin/
+obj/
+*.user
+.vs/
+appsettings.json
+appsettings.Development.json
+Logs/

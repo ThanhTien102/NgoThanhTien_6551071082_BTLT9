@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Utc2-Y3\\S1Y3\\LTTQ\\BT_Chuong11\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{813AD8B5-5317-4726-970F-6166FA7F6E38}|Bai1\\Bai1.csproj|d:\\utc2-y3\\s1y3\\lttq\\bt_chuong11\\bai1\\bai1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{813AD8B5-5317-4726-970F-6166FA7F6E38}|Bai1\\Bai1.csproj|solutionrelative:bai1\\bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1",
+              "DocumentMoniker": "D:\\Utc2-Y3\\S1Y3\\LTTQ\\BT_Chuong11\\Bai1\\Bai1\\Bai1.csproj",
+              "RelativeDocumentMoniker": "Bai1\\Bai1.csproj",
+              "ToolTip": "D:\\Utc2-Y3\\S1Y3\\LTTQ\\BT_Chuong11\\Bai1\\Bai1\\Bai1.csproj",
+              "RelativeToolTip": "Bai1\\Bai1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T03:13:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
